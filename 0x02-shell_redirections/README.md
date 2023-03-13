@@ -1,2 +1,1 @@
-#!/bin/bash
-Shell commands, I/O Redirections and Filters
+0x02 Shell commands, I/O Redirections and Filters
